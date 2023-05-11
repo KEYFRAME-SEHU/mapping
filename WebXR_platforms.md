@@ -8,6 +8,8 @@ Angell XR     https://www.angellxr.com/
 
 Apertus VR* 	http://apertusvr.org/
 
+Croquet       https://croquet.io/
+
 BUD         	https://www.joinbudapp.com/
 
 Edorble*	    https://www.edorble.com/
