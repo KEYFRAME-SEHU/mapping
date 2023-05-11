@@ -1,7 +1,6 @@
-# mapping
-Mapping WebXR platforms
+# Mapping WebXR platforms
 
-NAME          WEBSITE                        Active Users per Month      Avatar System  
+NAME        ----------  WEBSITE            -------------           Active Users per Month   ------------   Avatar System  
 Alakazam    	https://www.alakazam.io/
 
 Angell XR     https://www.angellxr.com/
