@@ -1,9 +1,10 @@
 # Mapping WebXR platforms
 
-Mapping Immersive Worlds is a project by Julian Reyes: https://keyframe-entertainment.com/miw/
-This list is a subset of the larger effort to map the upcoming Metaverse in 3D on three axis: Web2, Web3, and WebXR.
+**Mapping Immersive Worlds** is a project by Julian Reyes of Metaverse Workshop / Keyframe-Entertainment / OMI
 
-The list bellow includes our draft list of WebXR platforms only, pls let us know if you think we are missing any:
+This draft list of WebXR platforms is a subset of the larger effort to map the upcoming Metaverse in 3D on three axis: Web2, Web3, and WebXR.
+
+**Pls let us know if you think we're missing any WebXR platforms:**
 
 NAME        -------------  WEBSITE            -----------------           Active Users per Month   --------------------   Avatar System  
 Alakazam    	https://www.alakazam.io/
@@ -49,3 +50,6 @@ Viverse	      https://www.viverse.com
 webaverse	    https://webaverse.com
 
 XR Showcase	  https://xrshowcase.xyz
+
+Thanks for any feedback.
+More info on the project here: https://keyframe-entertainment.com/miw/
