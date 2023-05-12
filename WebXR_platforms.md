@@ -54,4 +54,6 @@ XR Showcase	  https://xrshowcase.xyz
 Thanks for any feedback.
 More info on the project here: https://keyframe-entertainment.com/miw/
 
-<a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>
+By using a 3D visualization approach, the mapping system could provide a more intuitive and comprehensive understanding of scale and interoperability, allowing stakeholders, investors, and world builders to identify areas for improvement and track progress over time.
+------------------------------------------------------------------------
+
