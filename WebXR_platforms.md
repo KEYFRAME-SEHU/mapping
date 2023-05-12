@@ -9,15 +9,15 @@ Apertus VR* 	http://apertusvr.org/
 
 Croquet       https://croquet.io/
 
-BUD         	https://www.joinbudapp.com/
+BUD         	https://www.joinbudapp.com
 
-Edorble*	    https://www.edorble.com/
+Edorble*	    https://www.edorble.com
 
-FrameVR	      https://learn.framevr.io/
+FrameVR	      https://learn.framevr.io
 
-Hyperfly	    https://hyperfy.io/
+Hyperfy	    https://hyperfy.io
 
-Juicyverse   https://www.starburst.com/
+Juicyverse   https://www.starburst.com
 
 Lighthouse	  https://lighthouse.world/home
 
@@ -27,18 +27,20 @@ Nowhere https://www.nowhere.io/
 
 Openvoxels	  https://hyperfy.io/makers
 
-Overte*       https://overte.org/
+Overte*       https://overte.org
+
+Ozone https://ozonemetaverse.io
 
 RP1	          https://www.rp1.com/about
 
 thirdroom	    https://thirdroom.io/preview
 
-V-Sekai	      https://v-sekai.org/
+V-Sekai	      https://v-sekai.org
 
-Vatom	        https://www.vatom.com/
+Vatom	        https://www.vatom.com
 
-Viverse	      https://www.viverse.com/
+Viverse	      https://www.viverse.com
 
-webaverse	    https://webaverse.com/
+webaverse	    https://webaverse.com
 
-XR Showcase	  https://xrshowcase.xyz/
+XR Showcase	  https://xrshowcase.xyz
