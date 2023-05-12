@@ -17,7 +17,13 @@ FrameVR	      https://learn.framevr.io/
 
 Hyperfly	    https://hyperfy.io/
 
+Juicyverse   https://www.starburst.com/
+
 Lighthouse	  https://lighthouse.world/home
+
+MetaVRse https://metavrse.com/
+
+Nowhere https://www.nowhere.io/
 
 Openvoxels	  https://hyperfy.io/makers
 
