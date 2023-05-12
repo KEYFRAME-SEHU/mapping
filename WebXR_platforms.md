@@ -1,6 +1,11 @@
 # Mapping WebXR platforms
 
-NAME        ----------  WEBSITE            -------------           Active Users per Month   ------------   Avatar System  
+Mapping Immersive Worlds is a project by Julian Reyes: https://keyframe-entertainment.com/miw/
+This list is a subset of the larger effort to map the upcoming Metaverse in 3D on three axis: Web2, Web3, and WebXR.
+
+The list bellow includes our draft list of WebXR platforms only, pls let us know if you think we are missing any:
+
+NAME        -------------  WEBSITE            -----------------           Active Users per Month   --------------------   Avatar System  
 Alakazam    	https://www.alakazam.io/
 
 Angell XR     https://www.angellxr.com/
