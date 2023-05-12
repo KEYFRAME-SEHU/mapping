@@ -53,3 +53,5 @@ XR Showcase	  https://xrshowcase.xyz
 
 Thanks for any feedback.
 More info on the project here: https://keyframe-entertainment.com/miw/
+
+<a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>
