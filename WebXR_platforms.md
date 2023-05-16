@@ -33,7 +33,7 @@ Nowhere - https://www.nowhere.io/
 
 Openvoxels -	  https://hyperfy.io/makers
 
-Overte* -      https://overte.org
+Overte* -      https://overte.org - Will be in OpenXR
 
 Ozone -  https://ozonemetaverse.io
 
@@ -51,8 +51,7 @@ webaverse	 -  https://webaverse.com
 
 XR Showcase	 - https://xrshowcase.xyz
 
-* Will be part of OpenXR
-** Mozilla Hubs in in review atm and are not included as they are charging for access to their site, we may map them as a Web2 Walled Garden eventhough they are WebXR
+** Mozilla Hubs in in review atm and are not included as they are charging for access to their site, we may map them as a "Web2 Walled Garden" eventhough they are WebXR
 ------------------------
 
 Thanks for any feedback.
