@@ -39,6 +39,8 @@ Overte* -      https://overte.org - Will be in OpenXR
 
 Ozone -  https://ozonemetaverse.io
 
+Portal - https://theportal.to/ - Hybrid Open Metvaerse and Web3
+
 RP1	     -     https://www.rp1.com/about
 
 thirdroom	 -   https://thirdroom.io/preview
