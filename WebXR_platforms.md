@@ -29,6 +29,8 @@ Lighthouse	-  https://lighthouse.world/home
 
 MetaVRse - https://metavrse.com/
 
+Mona - https://monaverse.com/
+
 Nowhere - https://www.nowhere.io/
 
 Openvoxels -	  https://hyperfy.io/makers
