@@ -1,4 +1,4 @@
-# Mapping WebXR platforms
+# Mapping Immersive Worlds (Open Metaverse section: WebXR, OpenXR, MetaTr@versal, etc)
 
 **Mapping Immersive Worlds** is a project by Julian Reyes of Metaverse Workshop / Keyframe-Entertainment / OMI
 
