@@ -51,16 +51,16 @@ webaverse	 -  https://webaverse.com
 
 XR Showcase	 - https://xrshowcase.xyz
 
-** Mozilla Hubs in in review atm and are not included as they are charging for access to their site, we may map them as a "Web2 Walled Garden" eventhough they are WebXR
-------------------------
+------ 
+Mozilla Hubs in in review atm and are not included as they are charging for access to their site, we may map them as a "Web2 Walled Garden" eventhough they are WebXR
+-------
 
-Thanks for any feedback.
-More info on the project here: https://keyframe-entertainment.com/miw/
+Thanks for any feedback. More info on the project here: https://keyframe-entertainment.com/miw/
 
 By using a 3D visualization approach, the mapping system could provide a more intuitive and comprehensive understanding of scale and interoperability, allowing stakeholders, investors, and world builders to identify areas for improvement and track progress over time.
 ------------------------------------------------------------------------
 **The Metaverse**
-XRSI defines the Metaverse as “A network of interconnected virtual worlds with the following key characteristics: Presence, Persistence, Immersion and Interoperability. Metaverse is the next iteration of the internet enabled by several converging technologies such as Extended Reality (XR), Artificial Intelligence(AI), Decentralized Ledger Technologies(DLTs), neuro-technologies, optics, bio-sensing technologies, robotics, improved computer graphics, hardware, and network capabilities.”
+XRSI defines the Metaverse as **“A network of interconnected virtual worlds with the following key characteristics: Presence, Persistence, Immersion and Interoperability. Metaverse is the next iteration of the internet enabled by several converging technologies such as Extended Reality (XR), Artificial Intelligence(AI), Decentralized Ledger Technologies(DLTs), neuro-technologies, optics, bio-sensing technologies, robotics, improved computer graphics, hardware, and network capabilities.”**
 
 The Metaverse is generally referred to as the next iteration of the Internet, that is persistent, shared and 3-dimensional. The Metaverse has been called the ‘successor state’ to mobile computing. Just as mobile phones didn’t replace desktop computers, the Metaverse will increasingly come to dominate individual time and attention, however, it may not replace the personal computers and mobile devices entirely. Instead of scrolling through mostly 2-dimensional screens, individuals will spend more and more of their time in digital experiences that are 3-dimensional, immersive, social, and increasingly indistinguishable from ‘reality.’ There are competing visions for the Metaverse, and regardless of the direction in which it evolves, both centralized and decentralized architectures will co-exist in competition.
 
