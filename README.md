@@ -1,12 +1,12 @@
 # Mapping Immersive Worlds (Open Metaverse section: WebXR, OpenXR, etc)
 
-**Mapping Immersive Worlds** is a project by Julian Reyes of Metaverse Workshop / Keyframe-Entertainment / OMI
+**Mapping Immersive Worlds** is a project by Julian Reyes of Metaverse Workshop / Keyframe-Entertainment / OMI / XR Guild
 
-This draft list of Open MEtaverse platforms is a subset of the larger effort to map the upcoming Metaverse in 3D on three axis: Web2, Web3, and Open Metaverse.
+This draft list of Open Metaverse platforms is a subset of the larger effort of Mapping Immersive Worlds as a 3D model on three axis: Web2, Web3, and Open Metaverse.
 
 **Pls let us know if you think we're missing any WebXR platforms or if you have suggestions (WIP). Feel free to click on "ISSUES" above to leave a comment or feedback, thanks!**
 
-| Name | Website | Description | Active Users per Month | Avatar System | 
+**| Name | Website | Description | Active Users per Month | Avatar System |** 
 | ---- | ------- | ----------- | ---------------------- | ------------- |
 | A-Frame | https://aframe.io | A web framework for building 3D/AR/VR experiences. Make 3D worlds with HTML and Entity-Component on any headset, mobile and desktop | | |
 | Alakazam | https://www.alakazam.io/ | On-demand immersive web platform for the creation of virtual worlds, 3D websites, and event environments. | | |
