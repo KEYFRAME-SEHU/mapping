@@ -4,7 +4,7 @@
 
 This draft list of Open MEtaverse platforms is a subset of the larger effort to map the upcoming Metaverse in 3D on three axis: Web2, Web3, and Open Metaverse.
 
-**Pls let us know if you think we're missing any WebXR platforms or if you have suggestions (WIP):**
+**Pls let us know if you think we're missing any WebXR platforms or if you have suggestions (WIP). Feel free to click on "ISSUES" above to leave a comment or feedback, thanks!**
 
 | Name | Website | Description | Active Users per Month | Avatar System | 
 | ---- | ------- | ----------- | ---------------------- | ------------- |
