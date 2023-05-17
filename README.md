@@ -8,12 +8,12 @@ This draft list of Open MEtaverse platforms is a subset of the larger effort to 
 
 | Name | Website | Description | Active Users per Month | Avatar System | 
 | ---- | ------- | ----------- | ---------------------- | ------------- |
-| Alakazam | https://www.alakazam.io/ | | | |
-| Angell XR | https://www.angellxr.com/ | | | |
-| Apertus VR | http://apertusvr.org/ | | | |
-| Croquet | https://croquet.io/ | | | |
-| BUD | https://www.joinbudapp.com | | | |
-| Edorble	| https://www.edorble.com | | | |
+| A-Frame | https://www.alakazam.io/ | [A web framework for building 3D/AR/VR experiences](https://aframe.io/) | | |
+| Alakazam | https://www.alakazam.io/ | On-demand immersive web platform for the creation of virtual worlds, 3D websites, and event environments. | | |
+| Apertus VR | http://apertusvr.org/ | "Distributed Plugin-in Mechanism" which means that not only humans could be involved in an multi-user virtual reality scene but any element of the Internet of Things like hardware, software, robot or any kind of smart device. | | |
+| Croquet | https://croquet.io/ | Metaverse Web Showcase is a free to use fully immersive Metaverse world that can be embedded in any website in minutes. | | |
+| BUD | https://www.joinbudapp.com | BUD is an open metaverse gaming platform that connects millions of virtual worlds created by our community, made up of 9 million creators. | | |
+| Edorble	| https://www.edorble.com | Open Source Framework for learning in Social Virtual (Reality) Environments. | | |
 | FrameVR	 | https://learn.framevr.io | | | |
 | Hyperfy	| https://hyperfy.io | | | |
 | Juicyverse | https://www.starburst.com | part of MetaVRse - TheMall.io | | |
