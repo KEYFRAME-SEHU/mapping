@@ -1,8 +1,8 @@
-# Mapping Immersive Worlds (Open Metaverse section: WebXR, OpenXR, MetaTr@versal, etc)
+# Mapping Immersive Worlds (Open Metaverse section: WebXR, OpenXR, etc)
 
 **Mapping Immersive Worlds** is a project by Julian Reyes of Metaverse Workshop / Keyframe-Entertainment / OMI
 
-This draft list of WebXR platforms is a subset of the larger effort to map the upcoming Metaverse in 3D on three axis: Web2, Web3, and Open Metaverse.
+This draft list of Open MEtaverse platforms is a subset of the larger effort to map the upcoming Metaverse in 3D on three axis: Web2, Web3, and Open Metaverse.
 
 **Pls let us know if you think we're missing any WebXR platforms or if you have suggestions (WIP):**
 
@@ -16,7 +16,7 @@ This draft list of WebXR platforms is a subset of the larger effort to map the u
 | Edorble	| https://www.edorble.com | | | |
 | FrameVR	 | https://learn.framevr.io | | | |
 | Hyperfy	| https://hyperfy.io | | | |
-| Juicyverse (part of MetaVRse) | https://www.starburst.com | | | |
+| Juicyverse | https://www.starburst.com | part of MetaVRse - TheMall.io | | |
 | Lighthouse | https://lighthouse.world/home | | | |
 | MetaVRse | https://metavrse.com/ | | | |
 | Mona | https://monaverse.com/ | | | |
