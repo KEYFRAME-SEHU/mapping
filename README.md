@@ -6,7 +6,7 @@ This draft list of Open Metaverse platforms is a subset of the larger effort of 
 
 **Pls let us know if you think we're missing any WebXR platforms or if you have suggestions (WIP). Feel free to click on "ISSUES" above to leave a comment or feedback, thanks!**
 
-**| Name | Website | Description | Active Users per Month | Avatar System |** 
+| Name | Website | Description | Active Users per Month | Avatar System |
 | ---- | ------- | ----------- | ---------------------- | ------------- |
 | A-Frame | https://aframe.io | A web framework for building 3D/AR/VR experiences. Make 3D worlds with HTML and Entity-Component on any headset, mobile and desktop | | |
 | Alakazam | https://www.alakazam.io/ | On-demand immersive web platform for the creation of virtual worlds, 3D websites, and event environments. | | |
