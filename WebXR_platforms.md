@@ -6,54 +6,33 @@ This draft list of WebXR platforms is a subset of the larger effort to map the u
 
 **Pls let us know if you think we're missing any WebXR platforms:**
 
-NAME        -------------  WEBSITE            -----------------           Active Users per Month   --------------------   Avatar System  
-Alakazam -     	https://www.alakazam.io/
+| NAME | WEBSITE | Active Users per Month | Avatar System |
+| ---- | ------- | ---------------------- | ------------- |
+| Alakazam | https://www.alakazam.io/ | | |
+| Angell XR | https://www.angellxr.com/ | | |
+| Apertus VR | http://apertusvr.org/ | | |
+| Croquet | https://croquet.io/ | | |
+| BUD | https://www.joinbudapp.com | | |
+| Edorble	| https://www.edorble.com | | |
+| FrameVR	 | https://learn.framevr.io | | |
+| Hyperfy	| https://hyperfy.io | | |
+| Juicyverse (part of MetaVRse) | https://www.starburst.com | | |
+| Lighthouse | https://lighthouse.world/home | | |
+| MetaVRse | https://metavrse.com/ | | |
+| Mona | https://monaverse.com/ | | |
+| Nowhere | https://www.nowhere.io/ | | |
 
-Angell XR -      https://www.angellxr.com/
-
-Apertus VR -   	http://apertusvr.org/
-
-Croquet -        https://croquet.io/
-
-BUD -         	https://www.joinbudapp.com
-
-Edorble	-     https://www.edorble.com
-
-FrameVR	 -      https://learn.framevr.io
-
-Hyperfy	-     https://hyperfy.io
-
-Juicyverse (part of MetaVRse)  -  https://www.starburst.com
-
-Lighthouse	-  https://lighthouse.world/home
-
-MetaVRse - https://metavrse.com/
-
-Mona - https://monaverse.com/
-
-Nowhere - https://www.nowhere.io/
-
-Openvoxels -	  https://hyperfy.io/makers
-
-Overte* -      https://overte.org - Will be in OpenXR
-
-Ozone -  https://ozonemetaverse.io
-
-Portal - https://theportal.to/ - Hybrid Open Metvaerse and Web3
-
-RP1	     -     https://www.rp1.com/about
-
-thirdroom	 -   https://thirdroom.io/preview
-
-V-Sekai	  -    https://v-sekai.org - MIT open source software stack built with Godot Engine 4.
-
-Vatom	 -        https://www.vatom.com
-
-Viverse	 -     https://www.viverse.com
-
-webaverse	 -  https://webaverse.com
-
-XR Showcase	 - https://xrshowcase.xyz
+| Openvoxels | https://hyperfy.io/makers | | |
+| Overte* | https://overte.org - Will be in OpenXR | | |
+| Ozone | https://ozonemetaverse.io | | |
+| Portal | https://theportal.to/ - Hybrid Open Metvaerse and Web3 | | |
+| RP1 | https://www.rp1.com/about | | |
+| thirdroom | https://thirdroom.io/preview | | |
+| V-Sekai | https://v-sekai.org - MIT open source software stack built with Godot Engine 4. | | |
+| Vatom	| https://www.vatom.com | | |
+| Viverse	| https://www.viverse.com | | |
+| webaverse	| https://webaverse.com | | |
+| XR Showcase | https://xrshowcase.xyz | | |
 
 ------ 
 Mozilla Hubs in in review atm and are not included as they are charging for access to their site, we may map them as a "Web2 Walled Garden" eventhough they are WebXR
