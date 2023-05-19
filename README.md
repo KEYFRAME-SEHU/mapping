@@ -10,6 +10,7 @@ This draft list of Open Metaverse platforms is a subset of the larger effort of 
 | ---- | ------- | ----------- | ---------------------- | ------------- |
 | A-Frame | https://aframe.io | A web framework for building 3D/AR/VR experiences. Make 3D worlds with HTML and Entity-Component on any headset, mobile and desktop | | |
 | Alakazam | https://www.alakazam.io/ | On-demand immersive web platform for the creation of virtual worlds, 3D websites, and event environments. | | |
+| Arrival.Space | https://arrival.space | An immersive web platform that provides easy access, smart tools, and discovery for the social 3D web and its creators. | | |
 | Apertus VR | http://apertusvr.org/ | "Distributed Plugin-in Mechanism" which means that not only humans could be involved in an multi-user virtual reality scene but any element of the Internet of Things like hardware, software, robot or any kind of smart device. | | |
 | Croquet | https://croquet.io/ | Metaverse Web Showcase is a free to use fully immersive Metaverse world that can be embedded in any website in minutes. | | |
 | BUD | https://www.joinbudapp.com | BUD is an open metaverse gaming platform that connects millions of virtual worlds created by our community, made up of 9 million creators. | | |
