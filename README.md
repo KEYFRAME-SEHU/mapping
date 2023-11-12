@@ -1,8 +1,8 @@
 # Mapping Immersive Worlds (Open Metaverse section: WebXR, OpenXR, etc)
 
-**Mapping Immersive Worlds** is a project by Julian Reyes of Metaverse Workshop / Keyframe-Entertainment / OMI / XR Guild
+**Mapping Immersive Worlds** is a project by Julian Reyes of Metaverse Workshop / Keyframe-Entertainment
 
-This draft list of Open Metaverse platforms is a subset of the larger effort of Mapping Immersive Worlds as a 3D model on three axis: Web2, Web3, and Open Metaverse.
+This draft list of Open Metaverse platforms is a subset of the larger effort of Mapping Immersive Worlds as a 3D visualization
 
 **Pls let us know if you think we're missing any WebXR platforms or if you have suggestions (WIP). Feel free to click on "ISSUES" above to leave a comment or feedback, thanks!**
 
@@ -19,7 +19,6 @@ This draft list of Open Metaverse platforms is a subset of the larger effort of 
 | FrameVR	 | https://learn.framevr.io | Teaching Materials Beyond 2D Images And Videos. Create a virtual classroom in seconds right in your browser with Frame. Join in VR. Frictionless. 24-7 Open Space. Web based VR app. | | |
 | Hyperfy	| https://hyperfy.io | Explore and build the metaverse with others, instantly on the web. | | |
 | JanusXR	| https://www.janusvr.com | JanusXR re-imagines webpages as collaborative 3D webspaces interconnected by portals. | | |
-| Juicyverse | https://www.starburst.com | Fruit-flavored candy brand Starburst's direct-to-consumer promotional and shopping experience in The Mallart of MetaVRse - TheMall.io | | |
 | Lighthouse | https://lighthouse.world/home | Open metaverse navigation engine. Extension: http://extension.lighthouse.world | | |
 | MetaVRse | https://metavrse.com/ | MetaVRse is an award-winning web-based, low-code, real-time 3D creation platform for the future of human communication, collaboration, commerce and culture. | | |
 | Nowhere | https://www.nowhere.io/ | Veterans from Windmill Factory, Escher Reality, Niantic, YC alumni are joining forces to build a healthier digital future. Groundbreaking technology brings video presence into dynamic environments in a natural way. | | Video feed |
@@ -29,7 +28,6 @@ This draft list of Open Metaverse platforms is a subset of the larger effort of 
 | Overte* | https://overte.org | OpenVR now and will be in OpenXR. Overte is an open source virtual worlds & social VR software which enables you to create and share virtual worlds as VR & desktop experiences. The Overte JavaScript API lets users create new experiences/transform virtual worlds within the Overte. | | |
 | Ozone | https://ozonemetaverse.io | Ozone enables you to own, scale, and monetize interactive 3D experiences. Simple to use - Powerful - 100% browser based. https://ozonemetaverse.io/worlds| | |
 | Portal | https://theportal.to/ | Hybrid Open Metvaerse and Web3. A multiplayer world-building platform that allows anyone to build, share, and play in an open world that is built by your imagination. Discord: http://discord.gg/portals | | |
-| Relm |	https://www.relm.us/	| A browser-based virtual world for support groups, team meetings, and life coaches | | |
 | RP1 | https://www.rp1.com/about | RP1 Is a persistent, seamless, real-time platform with limitless scalability. RP1 delivers a new paradigm in network server architecture, solving the fundamental obstacle in the creation of a real-time internet. | | |
 | Stageverse |https://stageverse.com/	| Stageverse is a no-code platform for creators and brands to build metaverse venues and host interactive 3D experiences. | | |
 | thirdroom | https://thirdroom.io/preview | Open, decentralised, immersive worlds. Third Room is built on a new browser-based engine that we’ve built called Manifold, which links together Three.js, bitECS, Rapier to provide a super high-performance multi-threaded game engine for the Web - which is then hooked into Matrix via Hydrogen SDK in order to provide the Matrix networking and chat/voip components, with the rest of the UI built in React.| | |
@@ -40,16 +38,13 @@ This draft list of Open Metaverse platforms is a subset of the larger effort of 
 | XR Showcase | https://xrshowcase.xyz | Open Worlds and XR Showcase curated by the Angell Community. More info https://www.angellxr.com | | |
 
 ------ 
-Mozilla Hubs in in review atm and are not included as they are charging for access to their site, we may map them as a "Web2 Walled Garden" eventhough they are WebXR. Subscription Page https://hubs.mozilla.com/#subscribe
+Mozilla Hubs is in review atm and are not included as they are charging for access to their site, we may map them as a "Web2 Walled Garden" eventhough they are WebXR. Subscription Page https://hubs.mozilla.com/#subscribe
 -------
 
-More info on this Mapping project here: https://keyframe-entertainment.com/miw/
+More info on this Mapping project here: https://www.virtualworlds.museum/mapping
 
 By using a 3D visualization approach, the mapping system could provide a more intuitive and comprehensive understanding of scale and interoperability, allowing stakeholders, investors, and world builders to identify areas for improvement and track progress over time.
 ------------------------------------------------------------------------
-**The Metaverse**
-XRSI defines the Metaverse as **“A network of interconnected virtual worlds with the following key characteristics: Presence, Persistence, Immersion and Interoperability. Metaverse is the next iteration of the internet enabled by several converging technologies such as Extended Reality (XR), Artificial Intelligence(AI), Decentralized Ledger Technologies(DLTs), neuro-technologies, optics, bio-sensing technologies, robotics, improved computer graphics, hardware, and network capabilities.”**
 
-The Metaverse is generally referred to as the next iteration of the Internet, that is persistent, shared and 3-dimensional. The Metaverse has been called the ‘successor state’ to mobile computing. Just as mobile phones didn’t replace desktop computers, the Metaverse will increasingly come to dominate individual time and attention, however, it may not replace the personal computers and mobile devices entirely. Instead of scrolling through mostly 2-dimensional screens, individuals will spend more and more of their time in digital experiences that are 3-dimensional, immersive, social, and increasingly indistinguishable from ‘reality.’ There are competing visions for the Metaverse, and regardless of the direction in which it evolves, both centralized and decentralized architectures will co-exist in competition.
 
 
