@@ -3,6 +3,7 @@
 **Mapping Immersive Worlds** is a project of VirtualWorlds.Museum / Keyframe-Entertainment. With support from OMI Group, Neurafile, and MetaTr@versal.
 
 VirtualWorlds.Museum is inviting world builders to help build out museum branded worlds.
+As we venture forward in building museum hubs, our goal is to explore the virtual worlds ecosystem and share those findings with the XR community. 
 
 **Please reach out to natacha(at)virtualworlds.museum for more details.**
 
@@ -49,7 +50,7 @@ VirtualWorlds.Museum is inviting world builders to help build out museum branded
 MANY MORE ENTRIES in WEB3, Sunsetted worlds, and Specialized worlds to add soon...
 -------
 
-More info on this here: https://www.virtualworlds.museum
+More info on this project here: [https://www.virtualworlds.museum](https://www.virtualworlds.museum/museum-hubs)
 
 BIG Shout out to OMI Group for their support: https://omigroup.org/
 ------------------------------------------------------------------------
