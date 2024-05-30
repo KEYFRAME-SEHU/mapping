@@ -1,7 +1,7 @@
 # Mapping Immersive Worlds (WebXR, Web2, VR)
 
 **Mapping Immersive Worlds** is a project of VirtualWorlds.Museum / Keyframe-Entertainment. 
-~ With support from OMI Group, Neurafile, New WOrld Notes, and MetaTr@versal.
+~ With support from OMI Group, Neurafile, New World Notes, and MetaTr@versal.
 
 VirtualWorlds.Museum is inviting world builders to help build out museum branded worlds.
 As we venture forward in building museum hubs, our goal is to explore the virtual worlds ecosystem and share those findings with the XR community. 
