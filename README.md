@@ -17,7 +17,6 @@ VirtualWorlds.Museum is inviting world builders to help build out museum branded
 | Spatial | https://www.spatial.io | Spatial is a free online gaming platform where creators build and share games that bring people together across web, mobile, and VR. | Yes | Keyframe |
 | Virtway | https://www.virtway.com/ | Virtway, a metaverse pioneer since 2010, specializes in crafting transformative experiences. Virtway is a game development studio in Spain. | Yes | Keyframe | 
 | VRLand | https://www.vrland.io| 3D space where users can connect with others, create events, play, learn and a lot more. No registration required. | WIP | Keyframe | 
- 
 | Apertus VR | http://apertusvr.org/ | "Distributed Plugin-in Mechanism" which means that not only humans could be involved in an multi-user virtual reality scene but any element of the Internet of Things like hardware, software, robot or any kind of smart device. | | |
 | Croquet | https://croquet.io/ | Metaverse Web Showcase is a free to use fully immersive Metaverse world that can be embedded in any website in minutes. | - | - |
 | BUD | https://www.joinbudapp.com | BUD is an open metaverse gaming platform that connects millions of virtual worlds created by our community, made up of 9 million creators. | - | - |
