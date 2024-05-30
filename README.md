@@ -5,7 +5,7 @@
 
 VirtualWorlds.Museum is inviting world builders to help build out museum branded worlds. As we venture forward in building museum hubs, our goal is to explore the virtual worlds ecosystem and share those findings with the XR community. 
 
-** World Builders wanting to collaborate, please reach out to natacha(at)virtualworlds.museum for more details.**
+**World Builders wanting to collaborate, please reach out to natacha(at)virtualworlds.museum for more details.**
 
 | Name | Website | Description | MUSEUM HUB STATUS | Museum World Builder |
 | ---- | ------- | ----------- | ----------------- | -------------------- |
