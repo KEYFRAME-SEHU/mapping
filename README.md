@@ -9,7 +9,7 @@ VirtualWorlds.Museum is inviting world builders to help build out museum branded
 
 | Name | Description | MUSEUM HUB STATUS | Museum World Builder |
 | ---- | ----------- | ----------------- | -------------------- |
-| WebXR Exhibit | ----------- | ----------------- | -------------------- |
+| WebXR Exhibit | Web native immersive worlds | - | - |
 | [Arrival.Space](https://arrival.space) | A web framework for building 3D/AR/VR experiences. Make 3D worlds with HTML and Entity-Component on any headset, mobile and desktop | Yes | SEHU |
 | [FrameVR](https://learn.framevr.io) | Create a virtual classroom in seconds right in your browser with Frame. Join in VR. Frictionless. 24-7 Open Space. Web based VR app. | Yes | Keyframe |
 | [Nowhere](https://www.nowhere.io/) | Veterans from Windmill Factory, Escher Reality, Niantic, YC alumni built technology bringing video presence into dynamic environments. | Yes | Keyframe |
