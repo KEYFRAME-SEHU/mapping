@@ -1,4 +1,4 @@
-# Mapping Immersive Worlds (WebXR, Apps, VR, Sunset worlds, and more...)
+# Mapping Immersive Worlds (WebXR, Apps, VR, open worlds, and more.)
 
 **Mapping Immersive Worlds** is a project of [VirtualWorlds.Museum](https://VirtualWorlds.Museum) / Keyframe-Entertainment. 
 ~ With support from OMI Group, Neurafile, New World Notes, and MetaTr@versal.
