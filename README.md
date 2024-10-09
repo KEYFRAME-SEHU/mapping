@@ -15,7 +15,7 @@ VirtualWorlds.Museum is inviting world builders to help build out museum branded
 | [Nowhere](https://www.nowhere.io/) | Veterans from Windmill Factory, Escher Reality, Niantic, YC alumni built technology bringing video presence into dynamic environments. | Yes | Keyframe |
 | [Oncyber](https://www.oncyber.com/) | A metaverse platform that makes it easy for anyone to create their own 3D, immersive experience that can be accessed from the browser. | Yes | Keyframe |
 | [Spatial](https://www.spatial.io) | Spatial is a free online gaming platform where creators build and share games that bring people together across web, mobile, and VR. | Yes | Keyframe |
-| [VRLand](https://www.vrland.io) | 3D space where users can connect with others, create events, play, learn and a lot more. No registration required. | WIP | Keyframe |
+| [VRLand](https://www.vrland.io) | 3D space where users can connect with others, create events, play, learn and a lot more. No registration required. | Yes | Keyframe |
 | Open Source | Downloaded Applications or VR | -- | -- |
 | [Open Simulator](http://opensimulator.org/wiki/Main_Page) | OpenSimulator is an open source multi-platform, multi-user 3D application server. It can be used to create a virtual environment (or worlds) which can be accessed through a variety of clients, on multiple protocols. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | [Openvoxels](https://juicebox.money/v2/p/238?tabid=about) | Metaverse Interoperability Lab by @m3org | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
@@ -32,7 +32,7 @@ VirtualWorlds.Museum is inviting world builders to help build out museum branded
 | [Horizon Worlds](https://www.horizon.meta.com) | Meta Horizon Worlds is an online virtual reality game with an integrated game creation system developed and published by Meta Platforms. | WIP | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | [Engage](https://www.engagevr.io) | ENGAGE provides a variety of tools for collaboration, such as immersive white boards, screen streaming, 3D virtual pens and spatial VoIP communications | WIP | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | [Roblox](https://roblox.com) | Online game platform and game creation system that allows users to program and play games created by themselves or other users. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
-| [Sinespace](https://sine.space) | Stageverse is a no-code platform for creators and brands to build metaverse venues and host interactive 3D experiences. | WIP | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
+| [Sinespace](https://sine.space) | Stageverse is a no-code platform for creators and brands to build metaverse venues and host interactive 3D experiences. | Yes | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | [VRChat](https://hello.vrchat.com) | VRChat offers an endless collection of social VR experiences by giving the power of creation to its community. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | ADDITIONAL WORLDS | More "Specialized & Blockchain" worlds to be added soon | -------- | -----------|
 | [Hiberworld](https://hiberworld.com) | Experience millions of virtual worlds or create your own, with or without code. | Yes | Keyframe |
@@ -74,7 +74,6 @@ VirtualWorlds.Museum is inviting world builders to help build out museum branded
 | [There](https://www.there.com) | A social virtual world where people go to spend time with friends, meet new ones and have fun in a beautiful 3-D environment. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | [Uttopion](https://www.uttopion.com/) | A Spanish metaverse that allows users to connect with content creators and brands in a virtual 3D space. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | [Virbela](https://virbela.com/) | Virbela is an immersive technology company that's redefining the workplace for global businesses with its virtual worlds and campus environments. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
-| [Virtway](https://virtway.com/) | A 3D virtual platform that offers a metaverse for business, with a focus on creating immersive, personalized experiences for virtual events. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | [Voxel Architects](https://www.voxelarchitects.com) | VoxelArchitects is the first architecture firm from the Metaverse. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | [w3rlds](https://www.w3rlds.com/) | Metaverse platform combining virtual experiences, Augmented reality and AI technologies to socialize, play and earn. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
 | [Whyville](http://www.whyville.net/) | A free, educational website for children aged 8–14 that features virtual world simulation games and role play. | - | [Apply](https://forms.gle/ZLqDRRHxEC4aZwKD7) |
